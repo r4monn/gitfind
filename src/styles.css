@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1D2128;
+    font-family: 'Roboto', sans-serif;
+}
+
+hr {
+    background-color: rgba(299, 299, 299, 0.2);
+    border: 1px solid rgba(299, 299, 299, 0.2);
+}
